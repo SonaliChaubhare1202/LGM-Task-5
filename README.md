@@ -1,2 +1,2 @@
 # LGM-Task-5
-Student Registration Form
+Student Result Management System
